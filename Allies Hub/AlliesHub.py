@@ -650,7 +650,7 @@
 
 
     def main() -> None:
-        updater = Updater("8196066669:AAHuIaa6zdac51tCUf4zwlw282vj-_SzPac")
+        updater = Updater("*******************")
         dispatcher = updater.dispatcher
 
         # Обработчик главного меню должен быть первым
